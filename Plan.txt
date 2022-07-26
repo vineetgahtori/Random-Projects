@@ -1,0 +1,11 @@
+1- Need to do cap on income (boundary value replacement )
+2- IQR - to understand outlier.  
+3- Weekly trend - may be at Start at month 
+4- labels with different feature like(Groceries by Female).
+5- Household count - Grocery cost is high for  by 4+ household, WIFI not needed by Old person
+6- clustering on extra data(may be for 10 cluster)
+7- k fold for training. 
+8-  Smote , class_weight, up sampling. 
+
+NLP is not a right approach -- Data is not sufficient. 
+
